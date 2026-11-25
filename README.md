@@ -1,2 +1,1 @@
-# netkit2
-3 by xavier vdn
+# netkit v2
